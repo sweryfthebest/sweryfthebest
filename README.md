@@ -1,16 +1,76 @@
-## Hi there 👋
+<h1 align="center">👋 Merhaba, Ben Burak</h1>
 
-<!--
-**sweryfthebest/sweryfthebest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <b>Full-Stack Developer & Game Developer</b><br>
+  PHP • JavaScript • Python • 2D & 3D Mobile / PC Game Development
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Hakkımda
+- PHP, JavaScript ve Python ile web projeleri geliştiriyorum.  
+- Unity ile 2D ve 3D mobil / PC oyunları yapıyorum.  
+- Yeni teknolojiler öğrenmeyi, deney yapmayı ve projeler üretmeyi seviyorum.
+
+---
+
+## 🛠️ Kullandığım Teknolojiler
+
+### 🔹 **Diller**
+<p>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+</p>
+
+### 🔹 **Game Development**
+<p>
+  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+</p>
+
+### 🔹 **Araçlar**
+<p>
+  <img src="https://img.shields.io/badge/VS Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+</p>
+
+---
+
+## 📌 Öne Çıkan Projelerim
+
+### 🎮 **2D Mobile Platformer Game**
+Basit ama keyifli bir 2D platform oyunu.  
+➡️ *Unity ile yapılmış, mobil uyumlu.*
+
+---
+
+### 🕹️ **3D PC Mini FPS Demo**
+Basit AI, silah mekaniği ve harita tasarımı içerir.  
+➡️ *Unity 3D Prototype.*
+
+---
+
+### 🌐 **PHP Blog Script**
+Kullanıcı giriş sistemi, admin paneli, CRUD yapısı.  
+➡️ *PDO + MySQL kullanıyor.*
+
+---
+
+## 📊 GitHub İstatistiklerim
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight"/>
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=USERNAME&theme=tokyonight"/>
+</p>
+
+> **⚠️ Not:** `USERNAME` yazan yere kendi GitHub kullanıcı adını koymayı unutma!
+
+---
+
+## 📫 Bana Ulaş
+- 📧 Email: **burak@example.com**  
+- 💼 LinkedIn: *Ekleyebilirsin, istersen beraber oluştururuz.*
+
+---
+
+⭐ **Profilimi ziyaret ettiğin için teşekkürler!**  
