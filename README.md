@@ -1,4 +1,4 @@
-<h1 align="center">👋 Merhaba, Ben Burak</h1>
+<h1 align="center">👋 Merhaba, Ben NwRz</h1>
 
 <p align="center">
   <b>Full-Stack Developer & Game Developer</b><br>
