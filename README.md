@@ -39,12 +39,11 @@
 
 ## 📌 Öne Çıkan Projelerim
 
-### 🎮 **2D Mobile Platformer Game**
-Basit ama keyifli bir 2D platform oyunu.  
-➡️ *Unity ile yapılmış, mobil uyumlu.*
+### 🕹️ **Basit İngilizce Kelime Oyunu**
+Basit Kelime Oyunu.Ve okulumun bana madalya verdiği oyun.  
+➡️ *Okulum İçin İngilizce Hakkında Mini Oyun.*
 
 ---
-
 ### 🕹️ **3D PC Mini FPS Demo**
 Basit AI, silah mekaniği ve harita tasarımı içerir.  
 ➡️ *Unity 3D Prototype.*
