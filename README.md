@@ -56,8 +56,8 @@ Kullanıcı giriş sistemi, admin paneli, CRUD yapısı.
 ➡️ *PDO + MySQL kullanıyor.*
 
 ### 🌍 **Benim CV'm**
-
-
+nwrzcvs.netlify.app
+(Not:Site Demo aşamasındadır. Sorun çıkarsa lütfen iletişime geçin.)
 ---
 
 
