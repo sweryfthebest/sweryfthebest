@@ -52,8 +52,11 @@ Basit AI, silah mekaniği ve harita tasarımı içerir.
 ---
 
 ### 🌐 **PHP Blog Script**
-Kullanıcı giriş sistemi, admin paneli, CRUD yapısı.  
+Kullanıcı giriş sistemi, admin paneli, CRUD yapısı. 
 ➡️ *PDO + MySQL kullanıyor.*
+
+### 🌍 **Benim CV'm**
+
 
 ---
 
