@@ -57,19 +57,13 @@ Kullanıcı giriş sistemi, admin paneli, CRUD yapısı.
 
 ---
 
-## 📊 GitHub İstatistiklerim
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight"/>
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=USERNAME&theme=tokyonight"/>
-</p>
 
-> **⚠️ Not:** `USERNAME` yazan yere kendi GitHub kullanıcı adını koymayı unutma!
+
 
 ---
 
 ## 📫 Bana Ulaş
-- 📧 Email: **burak@example.com**  
-- 💼 LinkedIn: *Ekleyebilirsin, istersen beraber oluştururuz.*
+- 📧 Email: **sweryfsthebest@gmail.com**  
 
 ---
 
